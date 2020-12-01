@@ -1,0 +1,31 @@
+GetLength
+IsEmpty
+DeleteItem 12
+PutItem 5
+PutItem 5
+PrintList
+PutItem 7
+PrintList
+PutItem 6
+PrintList
+PutItem 9
+PrintList
+PutItem 1
+PrintList
+IsFull
+GetAt 3
+GetAt 10
+DeleteItem 50
+DeleteItem 5
+IsFull
+DeleteItem 1
+DeleteItem 9
+PrintList
+DeleteItem 9
+PutItem 7
+PrintList
+MakeEmpty
+printList
+IsEmpty
+Merge
+Quit
